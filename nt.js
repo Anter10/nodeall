@@ -5,9 +5,9 @@
  */
 
  
-var app = require('./app');
+var app   = require('./app');
 var debug = require('debug')('untitled:server');
-var http = require('http');
+var http  = require('http');
 
 var port = 3020;
 app.set('port', port);
