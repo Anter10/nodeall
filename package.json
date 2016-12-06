@@ -1,0 +1,20 @@
+{
+  "name" : "nodeall",
+  "version" : "0.0.1",
+  "main" : "./nt.js",
+  "author" : {
+    "name" : "Anter10",
+    "email" : "you@email.example"
+  },
+  "keywords" : [ ],
+  "licenses" : {
+    "type" : "none"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/YOUR_LOGIN/nt.git"
+  },
+  "bugs" : {
+    "url" : "http://github.com/YOUR_LOGIN/nt/issues"
+  }
+}
